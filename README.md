@@ -52,6 +52,8 @@ ___
 
 ![Balanced Random Forest Classifier](https://github.com/fareenamughal/Credit_Risk_Analysis/blob/96bd572d51f0b32a096e4907f0a792d6ea01605a/Resources/5.%20Balanced%20Random%20Forest%20Classifier.png)
 
+![Balanced Random Forest Classifier Feature Importance](https://github.com/fareenamughal/Credit_Risk_Analysis/blob/de227dcafdde3c6c8b78c9d90aa890150abaa870/Resources/5.%20Balanced%20Random%20Forest%20Classifier-Feature%20importance%20.png)
+
 ### 6. Easy Ensemble AdaBoost Classifier
 
 
@@ -62,5 +64,10 @@ ___
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine
 learning models. Use screenshots of your outputs to support your results.
+___
 
-Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+## Summary
+
+___
+
+![Summary of the results](hhttps://github.com/fareenamughal/Credit_Risk_Analysis/blob/de227dcafdde3c6c8b78c9d90aa890150abaa870/Resources/SUMMARY%20OF%20THE%20OUTCOMES%20OF%20VARIOUS%20MACHINE%20LEARNING%20MODELS%20.png)
