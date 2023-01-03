@@ -79,3 +79,7 @@ ___
 ___
 
 ![Summary of the results](https://github.com/fareenamughal/Credit_Risk_Analysis/blob/2e39953a07a5ae3bbf89a74ba99444ae1effbef6/Resources/SUMMARY%20OF%20THE%20OUTCOMES%20OF%20VARIOUS%20MACHINE%20LEARNING%20MODELS%20.png)
+
+In the first four models above we oversampled, undersampled and used a combination of these to determine which model would be best at predicting loangs with high risk. In the last two models we resampled the data using ensemble classifier. For a model to be used to predict credit worthiness it needs to be able to identify the applications which will be high risk. There needs to be a high sensitivity as well as precision for the high risk class. The best of all models is the Easy Ensemble AdaBoost Classifier model which has the highest balanced accuracy score of 93%, highest F1 score of 97%, highest precision score of 7% for the high risk class and highest sensitivity score of 91% for the high risk class. Whereas these stats seem quite good compared to the others, this model also predicts high risk class with a mere 7% accuracy and has a 91% sensitivity, and this model could be used to predict the credit risk. However, in my opinion, even the Easy Ensemble AdaBoost Classifier model should not be relied upon as, though better than others, it still fails to adequately capture the high risk class. Even if we assume  a 5% margin of error, it still fails to meet the base threshold. Hence, in my opinion, none of the models adequately identify the credit risk.
+
+
