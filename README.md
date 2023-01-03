@@ -70,4 +70,4 @@ ___
 
 ___
 
-![Summary of the results](hhttps://github.com/fareenamughal/Credit_Risk_Analysis/blob/de227dcafdde3c6c8b78c9d90aa890150abaa870/Resources/SUMMARY%20OF%20THE%20OUTCOMES%20OF%20VARIOUS%20MACHINE%20LEARNING%20MODELS%20.png)
+![Summary of the results](https://github.com/fareenamughal/Credit_Risk_Analysis/blob/de227dcafdde3c6c8b78c9d90aa890150abaa870/Resources/SUMMARY%20OF%20THE%20OUTCOMES%20OF%20VARIOUS%20MACHINE%20LEARNING%20MODELS%20.png)
