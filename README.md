@@ -28,7 +28,7 @@ ___
 
 ___
 1. Naïve Random Oversampling
-![Naive Random Oversampling]()
+![Naive Random Oversampling](https://github.com/fareenamughal/Credit_Risk_Analysis/blob/9572130066ecb1663b31987e0c363a75c9e5cfd9/Resources/1.Naive%20Random%20Oversampling.png)
 
 2. SMOTE Oversampling
 
