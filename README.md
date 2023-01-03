@@ -15,7 +15,11 @@ The models used are as follows:
   - SMOTEENN combination sampling
   - Balanced Random Forest Classifier
   - Easy Ensemble AdaBoost Classifier
-     
+
+#### Resources
+
+ - Data source is the LoanStats_2019Q1.csv
+ - Software is jupyter notebook using python
      
 ![image]()
 
