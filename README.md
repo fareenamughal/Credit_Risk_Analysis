@@ -38,7 +38,7 @@ ___
 
 3. Cluster Centroids Undersampling
 
-![CLuster Centroids Undersampling] (https://github.com/fareenamughal/Credit_Risk_Analysis/blob/78e650898acf73827d66dbcd72c5c2d925796e86/Resources/3.%20Cluster%20Centroids%20Undersampling.png)
+![CLuster Centroids Undersampling](https://github.com/fareenamughal/Credit_Risk_Analysis/blob/78e650898acf73827d66dbcd72c5c2d925796e86/Resources/3.%20Cluster%20Centroids%20Undersampling.png)
 
 4. SMOTEENN combination sampling 
 
