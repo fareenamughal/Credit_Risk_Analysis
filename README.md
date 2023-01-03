@@ -28,23 +28,32 @@ ___
 
 ___
 1. Naïve Random Oversampling 
+
 ![Naive Random Oversampling](https://github.com/fareenamughal/Credit_Risk_Analysis/blob/9572130066ecb1663b31987e0c363a75c9e5cfd9/Resources/1.Naive%20Random%20Oversampling.png)
 
 2. SMOTE Oversampling
 
+![SMOTE Oversampling](https://github.com/fareenamughal/Credit_Risk_Analysis/blob/78e650898acf73827d66dbcd72c5c2d925796e86/Resources/2.%20SMOTE%20Oversampling.png)
+
 
 3. Cluster Centroids Undersampling
 
+![CLuster Centroids Undersampling] (https://github.com/fareenamughal/Credit_Risk_Analysis/blob/78e650898acf73827d66dbcd72c5c2d925796e86/Resources/3.%20Cluster%20Centroids%20Undersampling.png)
 
-4. SMOTEENN combination sampling
+4. SMOTEENN combination sampling 
 
+
+![SMOTEENN combination sampling](
 
 5. Balanced Random Forest Classifier
 
 
+![Balanced Random Forest Classifier]
+
 6. Easy Ensemble AdaBoost Classifier
 
 
+![Easy Ensemble AdaBoost Classifier]
 
 
 
