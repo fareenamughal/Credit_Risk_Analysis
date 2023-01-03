@@ -20,7 +20,10 @@ The models used are as follows:
 
  - Data source is the LoanStats_2019Q1.csv
  - Software is jupyter notebook using python
-     
+ 
+ - Links to the two python/jupyter notebook are as below:
+ - 1. [Credit risk resampling](https://github.com/fareenamughal/Credit_Risk_Analysis/blob/9572130066ecb1663b31987e0c363a75c9e5cfd9/credit_risk_resampling.ipynb)
+ - 2. [Credit risk ensemble](https://github.com/fareenamughal/Credit_Risk_Analysis/blob/9572130066ecb1663b31987e0c363a75c9e5cfd9/credit_risk_ensemble.ipynb)
 ___
 
 ## Results 
