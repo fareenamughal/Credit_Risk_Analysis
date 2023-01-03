@@ -28,7 +28,7 @@ ___
 
 ___
 1. Naïve Random Oversampling
-
+![Naive Random Oversampling]()
 
 2. SMOTE Oversampling
 
