@@ -8,8 +8,15 @@ ___
 
 The purpose of this analysis was to evaluate the credit worthiness or credit risk of customers. We use different machine learning models to try and predict the credit risk and to determine which model is best suited for evaluating credit risk. 
 
-
-
+The models used are as follows:
+     - Naïve Random Oversampling
+     - SMOTE Oversampling
+     - Cluster Centroids Undersampling
+     - SMOTEENN combination sampling
+     - Balanced Random Forest Classifier
+     - Easy Ensemble AdaBoost Classifier
+     
+     
 ![image]()
 
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
